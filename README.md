@@ -4,6 +4,14 @@
 <h3 align="center">Computer science student IT  :fire:
   
   
+  
+  
+  
+  
+  
+  
+  
+  
   <iframe src="https://gifer.com/embed/9s96" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
   
   
