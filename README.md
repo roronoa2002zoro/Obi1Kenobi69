@@ -6,18 +6,18 @@
   
   
   
-  <div style="padding-top:56.250%;position:relative;"><iframe src="https://gifer.com/embed/76iv" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
   
   
   
   
-  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+  
+  ![hippo](https://i.gifer.com/1vB.gif)
  
   
   
   
   
-  ![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+  ![til](https://i.gifer.com/1vB.gif)
   
   
   
