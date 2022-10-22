@@ -9,9 +9,11 @@
   ![7x6J](https://user-images.githubusercontent.com/115603453/197324559-45d737d8-18c3-4fe3-9cda-a395bc884d7b.gif)
 
   
+  ![1vB](https://user-images.githubusercontent.com/115603453/197324630-43db05b4-a19d-4194-bb4f-3aa915eda41c.gif)
+
   
-  
-  
+  ![9s96](https://user-images.githubusercontent.com/115603453/197324639-6ed10152-2c46-4f8b-9d18-d1d23e1c2a23.gif)
+
   
  
   ![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif) 
