@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<h1 align="center">Hi there, I'm <a href="https://obi1shat.ru/" target="_blank">obi1</a> 
+<h1 align="center">Hi young jedi, I'm <a href="https://obi1shat.ru/" target="_blank">obi1</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 # Hi young jedi, I'm [Obi1Kenobi](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
