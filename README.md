@@ -33,8 +33,14 @@
   
   
   
-  
-  [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)  
+   Большой (large):  
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
+
+Маленький (small):  
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
+
+Крошечный (micro):  
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username) 
   
   
   
