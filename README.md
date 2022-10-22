@@ -4,21 +4,16 @@
 <h3 align="center">Computer science student IT  :fire:
   
   
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
   
   
   
   
   
   
-  
-  ![hippo](https://i.gifer.com/1vB.gif)
  
-  
-  
-  
-  
-  ![til](https://i.gifer.com/1vB.gif)
-  
   
   
   
