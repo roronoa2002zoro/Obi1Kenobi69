@@ -4,15 +4,12 @@
 <h3 align="center">Computer science student IT  :fire:
   
   
-  ---
-
-### :hammer_and_wrench: Languages and Tools :
+ 
   
   
   
   
-  
-  
+[  ](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif )  
  
   
   
