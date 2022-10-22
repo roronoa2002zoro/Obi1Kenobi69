@@ -2,6 +2,24 @@
 <h1 align="center">Hi there, I'm Obi1Kenobi  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student IT  :fire:
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+
   
   
  ![type-computer](https://user-images.githubusercontent.com/115603453/197324733-6304c31f-03c9-4973-817d-ddb8445079c8.gif)
