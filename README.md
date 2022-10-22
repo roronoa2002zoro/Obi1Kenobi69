@@ -6,7 +6,7 @@
   
   
   
-  ![hippo](https://i.gifer.com/9s96.gif)
+  !(https://i.gifer.com/9s96.gif)
   
   
   
