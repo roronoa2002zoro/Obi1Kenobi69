@@ -94,7 +94,39 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+![475](https://user-images.githubusercontent.com/115603453/197332429-fa22e149-b791-40f0-9c14-d12f5be58d95.gif)
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ![cxC](https://user-images.githubusercontent.com/115603453/197332447-4c93cfa7-589c-4ff8-9c0e-5f389a8b849e.gif)
 
   
   
@@ -110,8 +142,26 @@
   
   
   
-  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ![uTM](https://user-images.githubusercontent.com/115603453/197332456-919210b5-fb50-4d83-b228-9b7339d8577f.gif)
+
+  
   
   
   
