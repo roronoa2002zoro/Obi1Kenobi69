@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 <img src="путь к файлу" alt="— Я сказал тебе правду. Правду... если смотреть на неё с определённой точки зрения.
 — С определенной точки зрения?
 — Люк, ты поймешь... зачастую правда, за которую мы цепляемся... зависит главным образом от нашей точки зрения.">
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
