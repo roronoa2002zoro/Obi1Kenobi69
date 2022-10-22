@@ -4,7 +4,8 @@
 <h3 align="center">Computer science student IT  :fire:
   
   
- 
+ ![type-computer](https://user-images.githubusercontent.com/115603453/197324733-6304c31f-03c9-4973-817d-ddb8445079c8.gif)
+
   
   ![7x6J](https://user-images.githubusercontent.com/115603453/197324559-45d737d8-18c3-4fe3-9cda-a395bc884d7b.gif)
 
