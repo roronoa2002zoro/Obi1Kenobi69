@@ -100,9 +100,7 @@
   
   
   
-  
-![475](https://user-images.githubusercontent.com/115603453/197332429-fa22e149-b791-40f0-9c14-d12f5be58d95.gif)
-
+  з
 
   
   
