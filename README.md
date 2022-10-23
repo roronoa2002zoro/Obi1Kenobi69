@@ -1,5 +1,5 @@
 ### Hi young jedi :alien:
-<h1 align="center">Hi there, I'm Obi1Kenobi  :punch:
+<h1 align="center">Hi there, I'm Obi1Kenobi  :v: 
 
 
 
