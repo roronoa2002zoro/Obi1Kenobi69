@@ -6,6 +6,21 @@
 
 
 
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
 ![RhNN](https://user-images.githubusercontent.com/115603453/197369886-c1769046-bb4e-4480-93df-cda3f6e2cdb9.gif)
 
 
@@ -20,7 +35,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 
 
 
