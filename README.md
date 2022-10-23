@@ -142,7 +142,7 @@
   
   
   
-  ![8jZt](https://user-images.githubusercontent.com/115603453/197369902-e442d455-400a-4b5d-b99d-b8ada8db8ff1.gif)
+  ъ
 
   
   
