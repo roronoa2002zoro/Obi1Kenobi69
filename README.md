@@ -7,12 +7,46 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 
 
 
 
+
+
+
+
+
+
+
+![RhNN](https://user-images.githubusercontent.com/115603453/197369886-c1769046-bb4e-4480-93df-cda3f6e2cdb9.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -97,10 +131,11 @@
   
   
   
+  ![8jZt](https://user-images.githubusercontent.com/115603453/197369902-e442d455-400a-4b5d-b99d-b8ada8db8ff1.gif)
+
   
   
   
-  з
 
   
   
@@ -162,4 +197,47 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ![AKqP](https://user-images.githubusercontent.com/115603453/197369951-8d9b8792-aa89-4ceb-b25d-511298b90b34.gif)
+
   
