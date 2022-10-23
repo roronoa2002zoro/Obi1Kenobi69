@@ -1,12 +1,12 @@
 ### Hi young jedi :alien:
 <h1 align="center">Hi there, I'm Obi1Kenobi  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 
 
 
 
+![RhNN](https://user-images.githubusercontent.com/115603453/197369886-c1769046-bb4e-4480-93df-cda3f6e2cdb9.gif)
 
 
 
@@ -32,11 +32,7 @@
 
 
 
-
-![RhNN](https://user-images.githubusercontent.com/115603453/197369886-c1769046-bb4e-4480-93df-cda3f6e2cdb9.gif)
-
-
-
+ 
 
 
 
