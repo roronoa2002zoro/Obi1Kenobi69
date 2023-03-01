@@ -98,7 +98,8 @@
   
   
   
-  ![1vB](https://user-images.githubusercontent.com/115603453/197332266-4f53647e-8a2d-49bc-8cd1-eac7fa9d4248.gif)
+
+![Mr15K](https://user-images.githubusercontent.com/115603453/222042333-dc99d452-5c65-4732-b24c-a35b74f0aa88.gif)
 
   
   
@@ -147,7 +148,7 @@
 
   
   
-  ![family-guy](https://user-images.githubusercontent.com/115603453/197424618-02779050-9e68-44aa-9aef-bd1f3f0c6ae4.gif)
+ 
 
 
   
@@ -155,7 +156,8 @@
   
   
   
-  
+  ![demon-slayer-anime-acegif-83 (1)](https://user-images.githubusercontent.com/115603453/222042761-54b97f77-e366-4b44-9bfe-4973189f53d4.gif)
+
   
   
   
@@ -172,11 +174,12 @@
   
   
   
-  ![cxC](https://user-images.githubusercontent.com/115603453/197332447-4c93cfa7-589c-4ff8-9c0e-5f389a8b849e.gif)
+  
 
   
   
-  
+  ![demon-slayer-anime-acegif-3](https://user-images.githubusercontent.com/115603453/222042930-8de792b0-b82b-4e63-85f9-0860a341a816.gif)
+
   
   
   
@@ -224,14 +227,15 @@
   
   
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+)
   
   
   
   
   
   
-  
+  ![demon-slayer-kimetsu-no-yaiba-acegif-23](https://user-images.githubusercontent.com/115603453/222043015-05d86616-6cb3-41ab-b342-e981bace7953.gif)
+
   
   
   
