@@ -1,4 +1,4 @@
-### Hi young jedi :alien:
+### Hi young demon slayer :alien:
 <h1 align="center">Hi there, I'm Hotaru Hakanezuko  :v: 
 
 
