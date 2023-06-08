@@ -21,10 +21,9 @@
 
 
 
+![athousandyearsofdeath-naruto](https://github.com/Obi1Kenobi69/Obi1Kenobi69/assets/115603453/3fc902bd-0fcf-4634-83f3-73c4e865884f)
 
 
-
-![Gva8f](https://user-images.githubusercontent.com/115603453/222042154-034e37cb-ee1f-465d-a8ff-50be7d771368.gif)
 
 
 
@@ -69,25 +68,11 @@
 
 
 
+![kakashi (1)](https://github.com/Obi1Kenobi69/Obi1Kenobi69/assets/115603453/0c3f847d-4353-40dc-a77b-2f2af8752b0e)
 
   
   
- ![type-computer](https://user-images.githubusercontent.com/115603453/197324733-6304c31f-03c9-4973-817d-ddb8445079c8.gif)
 
-  
-  
-  
-  
-  
-  
-  
-
-  ![5ffbcb03abb1ccfaa54a6c2055e0fe58](https://user-images.githubusercontent.com/115603453/197328314-833daafe-6026-430e-87ad-6477766afd11.gif)
-  
-  
-  
-  
-  
 
   
   
@@ -96,15 +81,13 @@
   
   
   
-  
-  
-
-![Mr15K](https://user-images.githubusercontent.com/115603453/222042333-dc99d452-5c65-4732-b24c-a35b74f0aa88.gif)
+![kakashi](https://github.com/Obi1Kenobi69/Obi1Kenobi69/assets/115603453/294d5271-93b2-4658-b77e-d3397d4596a7)
 
   
   
   
-  
+  ![kakashi-naruto](https://github.com/Obi1Kenobi69/Obi1Kenobi69/assets/115603453/ceb2edfa-521f-437d-bfc3-a699e683ed7c)
+
   
   
   
@@ -117,7 +100,8 @@
   
   
   
-  
+  ![R](https://github.com/Obi1Kenobi69/Obi1Kenobi69/assets/115603453/1c3296d7-2204-4e3a-aef2-1243ba5a2936)
+
   
   
   
