@@ -130,7 +130,8 @@
   
   
 
-  
+  ![успшный](https://github.com/Obi1Kenobi69/Obi1Kenobi69/assets/115603453/6bef974a-96e6-43b7-8d92-7db07f31005f)
+
   
  
 
@@ -203,7 +204,8 @@
   
   
   
-  
+  ![4](https://github.com/Obi1Kenobi69/Obi1Kenobi69/assets/115603453/400cdd8b-f2e3-4db3-a3cd-4587ea94e32a)
+
   
   
   
@@ -226,7 +228,8 @@
   
   
   
-  
+  ![обои1](https://github.com/Obi1Kenobi69/Obi1Kenobi69/assets/115603453/77a8da9c-f09a-46bb-9ba6-baf5ac8d9667)
+
   
   
   
