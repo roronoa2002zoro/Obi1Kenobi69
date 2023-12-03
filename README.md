@@ -1,4 +1,4 @@
-### Hi young demon slayer :alien:
+### Hi young pirate :alien:
 <h1 align="center">Hi there, I'm Roronoa Zoro  :v: 
 
 
@@ -9,7 +9,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+ninja)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+pirate)](https://git.io/typing-svg)
 
 
 
